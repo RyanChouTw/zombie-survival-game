@@ -1,0 +1,26 @@
+{
+  "name": "殭屍生存戰",
+  "short_name": "殭屍生存戰",
+  "description": "卡通風格俯視角殭屍生存射擊遊戲",
+  "start_url": "/zombie-survival-game/",
+  "scope": "/zombie-survival-game/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "categories": ["games"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
